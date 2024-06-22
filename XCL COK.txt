@@ -1,0 +1,5 @@
+﻿vless://4819b8b0-6a33-4c6c-8d33-c0947ecbe803@ava.game.naver.com:443?path=%2Fvless&security=tls&encryption=none&host=ava.game.naver.com.hosting.ngapaktunnelling.xyz&fp=randomized&type=ws&sni=ava.game.naver.com.hosting.ngapaktunnelling.xyz#XCL+HOSTING
+vless://4819b8b0-6a33-4c6c-8d33-c0947ecbe803@ava.game.naver.com:443?path=%2Fvless&security=tls&encryption=none&host=ava.game.naver.com.alibaba.ngapaktunnelling.xyz&fp=randomized&type=ws&sni=ava.game.naver.com.alibaba.ngapaktunnelling.xyz#XCL+ALIBABA
+vless://4819b8b0-6a33-4c6c-8d33-c0947ecbe803@ava.game.naver.com:443?path=%2Fvless&security=tls&encryption=none&host=ava.game.naver.com.zenlayer.ngapaktunnelling.xyz&fp=randomized&type=ws&sni=ava.game.naver.com.zenlayer.ngapaktunnelling.xyz#XCL+ZENLAYER
+vless://4819b8b0-6a33-4c6c-8d33-c0947ecbe803@ava.game.naver.com:443?path=%2Fvless&security=tls&encryption=none&host=ava.game.naver.com.oracle.ngapaktunnelling.xyz&fp=randomized&type=ws&sni=ava.game.naver.com.oracle.ngapaktunnelling.xyz#XCL+ID+LLC
+
